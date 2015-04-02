@@ -1,0 +1,29 @@
+commit 335bf8f958e5c6beed6743e20968e8f82c512cd3
+Author: Derek Lin <drklin@ucdavis.edu>
+Date:   Thu Apr 2 15:02:40 2015 -0700
+
+    added Derek's weekend plans
+
+commit 416f5479940888627635d995ea477ea86577b380
+Author: snjng <snjng@ucdavis.edu>
+Date:   Thu Apr 2 14:48:35 2015 -0700
+
+    fjdksajfl
+
+commit bf67f2c08402a3088044012618b47d55ef0452da
+Author: snjng <snjng@ucdavis.edu>
+Date:   Thu Apr 2 14:21:19 2015 -0700
+
+    initial commit
+
+commit b6571300a26f1e7f5559a7877209c818bdae47f2
+Author: snjng <snjng@ucdavis.edu>
+Date:   Thu Apr 2 14:17:43 2015 -0700
+
+    blah
+
+commit 68bfbaaa16b71e787011d2e6798ac943bb121368
+Author: snjng <snjng@ucdavis.edu>
+Date:   Thu Apr 2 14:14:19 2015 -0700
+
+    initial commit
